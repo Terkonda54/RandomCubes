@@ -1,2 +1,2 @@
 # RandomCubes
-First Unity Game
+First unity game for Intro to Game Programming
